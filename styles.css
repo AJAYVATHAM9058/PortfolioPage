@@ -169,7 +169,7 @@ footer h2{
 }
 
 
-@media screen and (min-width:850px){
+@media screen and (max-width:850px){
     .welcome{
         background: white;
         color:black;
